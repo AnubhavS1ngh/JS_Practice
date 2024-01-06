@@ -1,0 +1,35 @@
+body{
+  background: rgb(185, 166, 166);
+  font: 1em sans-serif;
+}
+h1 {
+  text-align: center;
+  color: rgb(1, 216, 141);
+}
+
+span{
+  display: block;
+}
+.canvas{
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+.button {
+  width: 150px;
+  height: 150px;
+  border: solid black 2px;
+  display: inline-block;
+}
+#grey{
+  background-color: grey;
+}
+#white{
+  background-color: white;
+}
+#blue{
+  background-color: blue;
+}
+#yellow{
+  background-color: yellow;
+}
